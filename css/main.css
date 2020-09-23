@@ -472,6 +472,9 @@
         .promo{
             padding: 20px;
         }
+        .section-heading-main{
+            flex-wrap: wrap;
+        }
         .footer-block{
             flex-wrap: wrap;
             flex-direction: column;
