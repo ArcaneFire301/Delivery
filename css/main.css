@@ -389,7 +389,7 @@
 }
 
 
-@media(max-width:768px){
+@media(max-width: 768px){
     
     .container{
         max-width: 560px;
@@ -416,12 +416,12 @@
     }
 }
 
-@media(max-width:578){
+@media(max-width: 578px){
     .container{
-        width: 90%;
+        width: 100%;
     }
     .header{
-        flex-wrap:wrap;
+       flex-wrap: wrap;
     }
     .input-address{
         margin-top: 15px;
